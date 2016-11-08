@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.180.150:8083/shjapp.ipa</string>
+                    <string>http://www.microstarsoft.com:83/shjapp.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.microstarsoft.zslapp</string>
+                <string>com.microstarsoft.shjapp</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>zslappv2</string>
+                <string>shjapp</string>
             </dict>
         </dict>
     </array>
