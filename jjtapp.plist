@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.microstarsoft.com:82/shjapp.ipa</string>
+                    <string>http://www.microstarsoft.com:82/jjtapp.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.microstarsoft.shjapp</string>
+                <string>com.microstarsoft.jjtapp</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>shjapp</string>
+                <string>jjtapp</string>
             </dict>
         </dict>
     </array>
