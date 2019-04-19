@@ -1,2 +1,2 @@
 # AppPub
-手机端发布相关文档
+ipone Unofficial download plan
